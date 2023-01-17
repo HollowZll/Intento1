@@ -1,2 +1,1 @@
-# Prep-course-henry
-Este es un repositorio del modulo2 precourse de Henry
+Este proyecto es como una preuba para hacer un repocitiorio. 
